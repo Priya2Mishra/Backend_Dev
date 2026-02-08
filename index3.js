@@ -26,6 +26,9 @@ let i = "hii everyone its";
 console.log(i.concat("",f));
 console.log(i.substring(7,14));
 
+console.log(f.indexOf("j"));
+
+
 
 
 

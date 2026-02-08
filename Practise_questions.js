@@ -2,8 +2,7 @@ const fs = require('fs').promises;
 
 async function countWords() {
     try {
-        // 1. Read the content of the file
-        // Ensure 'input.txt' exists in the same directory
+        
         const data = await fs.readFile('input.txt', 'utf8');
 
         // 2. Count the words
@@ -27,3 +26,4 @@ async function countWords() {
 
 countWords();
 
+// set time out and interval hua hi class mein

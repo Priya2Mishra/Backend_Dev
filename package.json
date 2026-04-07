@@ -1,0 +1,19 @@
+{
+  "name": "authentication_assignment",
+  "version": "1.0.0",
+  "description": "todo crud operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Backend_dev"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Priya",
+  "license": "ISC"
+}

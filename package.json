@@ -1,0 +1,25 @@
+{
+  "name": "excersice01",
+  "version": "1.0.0",
+  "description": "file operations using node_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priya2Mishra/Backend_Dev.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "api",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priya2Mishra/Backend_Dev/issues"
+  },
+  "homepage": "https://github.com/Priya2Mishra/Backend_Dev#readme"
+}
